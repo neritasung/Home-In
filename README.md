@@ -17,17 +17,17 @@ Walk Score provides users scores from scale of 0 to 100 (100 being the best), sc
 
 
 ## Roles: 
-Joe - Zillow API
-Risa - Walk Score API
-Jonathon - Interface/ Design FED
-Nerita - Project Management, Firebase
-Everyone - Content, Web developer, QA
++ Joe - Zillow API
++ Risa - Walk Score API
++ Jonathon - Interface/ Design FED
++ Nerita - Project Management, Firebase
++ Everyone - Content, Web developer, QA
 
 ## Technology Used:
-API’s (Zillow and Walk Score)
-Firebase for data storage
-Capture data by user’s email address
-Bootstrap for CSS
-Hammer.js for swipe right and left functions (shown in console log)
-Fontawesome for icons
++ API’s (Zillow and Walk Score)
++ Firebase for data storage
++ Capture data by user’s email address
++ Bootstrap for CSS
++ Hammer.js for swipe right and left functions (shown in console log)
++ Fontawesome for icons
 
