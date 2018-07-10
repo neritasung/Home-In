@@ -1,0 +1,100 @@
+body {
+    background-color: #EFEBE0;
+    height: 100%;
+    /* background: url("../images/form-background.png");    */
+}
+
+h1, h2, h3, p {
+   font-family: 'Dosis', sans-serif; 
+   font-weight: 300;
+   color: #EFEBE0;
+}
+
+
+/************* NavBar **************/
+.navbar {
+    margin-bottom: 100px;
+}
+
+.icon {
+    color: #707070;
+}
+
+
+/************* Main Content **************/
+.content-div {
+    width: 60%;
+    margin-bottom: 100px;
+    background-color: #147A86;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.content-div h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.form-control {
+    background-color: #FFB401;
+    border: none;
+}
+
+#email-Input {
+    color: #707070;
+}
+
+#submit-Btn, #search-Btn, #reset-Btn {
+    background-color: #FFB401;
+    color:#147A86;
+    border: none;
+}
+
+/************* Search Specifics **************/
+#city-Input {
+    margin-bottom: 20px;
+}
+
+#neighborhood-Input {
+    margin-bottom: 20px;
+}
+
+
+
+/************* Listings Specifics **************/
+#listings-Results h3 {
+    font-weight: 700;
+}
+
+#listing-Address {
+    font-weight: 200;
+}
+
+.underlined {
+    margin-bottom: 0;
+}
+
+#listings-Results hr {
+    margin-top: 2px;
+    margin-bottom: 12px;
+}
+
+#listing-Address {
+    margin-top: 10px;
+}
+
+
+
+/************* Footer **************/
+.footer {
+    background-color: #147A86;
+}
+
+.footer p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer img {
+    margin-left: 100px;
+}
